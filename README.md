@@ -10,3 +10,4 @@ func checkDataSet(dataSet []int) bool {
 ```
 
 Program will print every possible values of X, Y and Z that satisfy the conditions
+
